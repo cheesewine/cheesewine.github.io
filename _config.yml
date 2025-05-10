@@ -1,0 +1,5 @@
+title: "我的博客"     # 博客标题
+description: "记录技术与生活"  # 博客描述
+url: "https://你的用户名.github.io"  # 你的博客地址
+theme: minima        # 使用的 Jekyll 主题（默认主题）
+author: cheesewine      # 作者名
